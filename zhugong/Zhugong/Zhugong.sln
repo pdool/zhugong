@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhugong", "Zhugong.csproj", "{7FF7790A-D59B-AF22-3EF3-77B38B15C0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhugong.Editor", "Zhugong.Editor.csproj", "{A6AE0096-5701-BC43-3045-312D30D3D70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF7790A-D59B-AF22-3EF3-77B38B15C0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF7790A-D59B-AF22-3EF3-77B38B15C0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF7790A-D59B-AF22-3EF3-77B38B15C0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF7790A-D59B-AF22-3EF3-77B38B15C0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6AE0096-5701-BC43-3045-312D30D3D70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AE0096-5701-BC43-3045-312D30D3D70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AE0096-5701-BC43-3045-312D30D3D70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AE0096-5701-BC43-3045-312D30D3D70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
